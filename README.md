@@ -1,6 +1,6 @@
 # Employee Shift Scheduling Application
 
-This project is a Python-based application designed to manage employee schedules at a company operating 7 days a week. The program allows employees to choose shifts (morning, afternoon, or evening) and generates a weekly schedule while respecting specific constraints.
+This project is a Python-based as well as Java-based application designed to manage employee schedules at a company operating 7 days a week. The program allows employees to choose shifts (morning, afternoon, or evening) and generates a weekly schedule while respecting specific constraints.
 
 ## Features
 
@@ -19,17 +19,13 @@ This project is a Python-based application designed to manage employee schedules
 
 ## Technologies Used
 
-* Python 3.x: The core language for implementing the scheduling logic.
-* Random Library: Used to shuffle employees for fair assignment.
+* Python
+* Java
 
 ## Installation
 
 1.  Clone the repository.
-2.  Run the script:
-
-    ```bash
-    python assignment4.py
-    ```
+2.  Run the script
 
 ## Usage
 
