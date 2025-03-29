@@ -28,7 +28,7 @@ This project is a Python-based application designed to manage employee schedules
 2.  Run the script:
 
     ```bash
-    python employee_scheduler.py
+    python assignment4.py
     ```
 
 ## Usage
